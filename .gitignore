@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+
+### Kotlin template
+# Compiled class file
+*.class
+
+### JetBrains template
+# User-specific stuff:
+.idea/
+*.iml
